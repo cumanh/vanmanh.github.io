@@ -1,0 +1,8 @@
+[class*="col-"] {
+  width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  .java-funix::before {
+    display: none;
+  }
+}

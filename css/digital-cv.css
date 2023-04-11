@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* .row-1 {
+  display: flex;
+  gap: 20px;
+} */
+.member-1 {
+  display: flex;
+  gap: 20px;
+}
+.project {
+  display: flex;
+  gap: 20px;
+}
+.number {
+  padding: 3px;
+  border-radius: 100%;
+}
+.member-1 h3 {
+  margin: 10px 10px 20px;
+}
+
+.rowss {
+  margin-bottom: 10px;
+  border-bottom: 1px dotted blue;
+}
